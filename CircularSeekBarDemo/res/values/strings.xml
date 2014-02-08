@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircularSeekBarDemo</string>
+    <string name="action_settings">Settings</string>
+	<string name="intro">This app demos a couple different ways to use the CircularSeekBar. Enjoy!</string>
+	<string name="textDemo1">This demos the basic CircularSeekBar with no custom attributes:</string>
+	<string name="textDemo2">This demos the basic CircularSeekBar with custom colors and a listener:</string>
+	<string name="textDemo3">This demos a CircularSeekBar with a custom start and end, custom radii, and maintain equal circle set to off:</string>
+	<string name="textDemo4"></string>
+	
+</resources>
